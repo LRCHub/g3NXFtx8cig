@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "YOUTH",
   "base_artist": "tiny yawn",
-  "createdAt": "2026-03-19T01:39:29.309117Z",
+  "createdAt": "2026-03-19T01:42:59.454801Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,15 @@
       "artist": "tiny yawn",
       "has_synced": false,
       "path": "select/pl_01_YOUTH_tiny_yawn.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "YOUTH",
+      "artist": "tiny yawn",
+      "has_synced": false,
+      "path": "select/localdb_01_YOUTH_tiny_yawn.txt",
+      "repo_name": "g3NXFtx8cig"
     }
   ]
 }
